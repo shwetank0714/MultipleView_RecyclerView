@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleRecyclerView</string>
+    <string name="view_1_textview">View 1 TextView</string>
+    <string name="view_2_textview">View 2 TextView</string>
+</resources>
